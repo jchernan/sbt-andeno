@@ -1,5 +1,5 @@
 // Scalastyle
 addSbtPlugin("org.scalastyle" %% "scalastyle-sbt-plugin" % "1.0.0")
 
-// Bintray
-addSbtPlugin("org.foundweekends" % "sbt-bintray" % "0.5.6")
+// GitHub Packages
+addSbtPlugin("com.codecommit" % "sbt-github-packages" % "0.5.2")
