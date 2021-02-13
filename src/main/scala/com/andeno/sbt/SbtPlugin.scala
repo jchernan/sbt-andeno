@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016-2020 Andeno Co. All rights reserved.
+ * Copyright (c) 2016-2021 Andeno Co. All rights reserved.
  */
 
 package com.andeno.sbt

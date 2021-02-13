@@ -10,7 +10,7 @@
   <parameters>
    <parameter name="regex">true</parameter>
    <parameter name="header"><![CDATA[/\*
- \* Copyright \(c\) 2016-2020 Andeno Co. All rights reserved.
+ \* Copyright \(c\) 2016-2021 Andeno Co. All rights reserved.
  \*/]]></parameter>
   </parameters>
  </check>
